@@ -1,0 +1,21 @@
+{
+  "name": "psbt_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mempool/mempool.js": "^2.3.0",
+    "@tsconfig/node16": "^1.0.4",
+    "@types/node": "^20.2.5",
+    "bitcoinjs-lib": "^6.1.1",
+    "dotenv": "^16.1.3",
+    "rpc-bitcoin": "^2.0.0",
+    "tiny-secp256k1": "^2.2.2"
+  }
+}
